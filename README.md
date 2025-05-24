@@ -1,2 +1,2 @@
-# tarun-mehta.github.io
+# tarunmehta.github.io
 Website
