@@ -12,7 +12,7 @@ order: 4
 ---
 <br>
 
-
+<!--
 ### 2023  
 1.  [How ‘green skill’ development can help fill India’s employment gap?](https://theprint.in/opinion/how-green-skill-development-can-help-fill-indias-employment-gap/1670055/)  
 with Gunjan Jhunjhunwala
@@ -35,3 +35,4 @@ with Karthik Ganesan
 ### 2021
 1. [Reducing discom losses: How India can strengthen its Reformed Distribution Sector scheme](https://economictimes.indiatimes.com/industry/energy/power/reducing-discom-losses-how-india-can-strengthen-its-reformed-distribution-sector-scheme/articleshow/88467473.cms)  
 with Prateek Aggarwal
+-->
