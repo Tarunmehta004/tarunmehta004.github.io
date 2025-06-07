@@ -6,12 +6,53 @@ order: 4
 ---
 
 
+### Household Consumption Expenditure Survey
+1. [Comparative analysis of LPG and Firewood consumption in India during 2022-23 and 2023-24.](https://github.com/Tarunmehta004/HCES/tree/main/Across%20survey%20analysis/LPG%20and%20firewood%20statistics)<br>
+
+2. [Analysis of stock and purchase of cooling appliances by households in 2023-24.](https://github.com/Tarunmehta004/HCES/tree/main/Across%20survey%20analysis/LPG%20and%20firewood%20statistics)<br>
+
+3. [Population based Monthly Per Capita Expenditure for 2023-24.](https://github.com/Tarunmehta004/HCES/tree/main/HCES%202023-24/Python%20implementation/Data%20extraction/Population%20based%20MPCE)<br>
+
+4. [Population based Monthly Per Capita Expenditure for 2022-23.](https://github.com/Tarunmehta004/HCES/tree/main/HCES%202022-23/Python%20implementation/Codes/Population%20based%20MPCE)<br>
+
+5. [Decile level expenditure on each commodity during 2022-23.](https://github.com/Tarunmehta004/HCES/tree/main/HCES%202022-23/Python%20implementation/Codes/HH%20decile%20level%20expenditure)
+
+---
+<br>
+
+
+### Periodic Labour Force Survey [WiP]
+1. Change in industry-wise share of employment between 2011-12 and 2023-24. <br>
+
+2. Socio-economic characteristics of coal mine workers in India in 2022-23. <br>
+
+3. Combining raw data on first and revisit from PLFS 2023-24 to generate composite estimates. <br>
+
+4. Training a simple neural net to predict status of employment of an individual based on socio-economic characteristics. <br>
+
+5. Using Random Forest to predict status of employment of an individual based on socio-economic characteristics. 
+
+---
+<br>
+
+
+### Survey of Unincorporated Sector Enterprises [WiP]
+1. GVA and worker statistics for unincorporated enterprises in 2022-23.<br>
+
+2. GVA and worker statistics for unincorporated enterprises in 2015-16.
+
+---
+<br>
+
+
 ### Miscellaneous
-1. [Personal website.](https://github.com/Tarunmehta004/tarunmehta004.github.io)
+1. [Personal website.](https://github.com/Tarunmehta004/tarunmehta004.github.io)<br>
+
 2. [Fine tuning a pretrained language model (ModernBERT) for sentiment analysis.](https://github.com/Tarunmehta004/Finetuning-ModernBERT)
 
 ---
 <br>
+
 
 <!--
 ### 2023  
