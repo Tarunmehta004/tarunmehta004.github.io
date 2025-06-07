@@ -34,7 +34,7 @@ with Karthik Ganesan
 <br>
 
 ### 2021
-1. [Reducing discom losses: How India can strengthen its Reformed Distribution Sector scheme](https://economictimes.indiatimes.com/industry/energy/power/reducing-discom-losses-how-india-can-strengthen-its-reformed-distribution-sector-scheme/articleshow/88467473.cms)  
+1. [Reducing discom losses: How India can strengthen its Reformed Distribution Sector scheme.](https://economictimes.indiatimes.com/industry/energy/power/reducing-discom-losses-how-india-can-strengthen-its-reformed-distribution-sector-scheme/articleshow/88467473.cms)  
 with Prateek Aggarwal
 
 
