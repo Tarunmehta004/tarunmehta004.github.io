@@ -8,7 +8,7 @@ title: My Story
 
 I am Tarun, a climate policy researcher based out of New Delhi, India. I aim to make India's climate transition more just and equitable for its people. Fascinated by the richness of large scale sample surveys in India, I often experiment with Machine learning algorithms on these and other microdatasets to generate insights...some profound, but mostly preposterous.
 
-Here is a trajectory of my work at Council on Energy, Environment, and Water (CEEW) since 2021: 
+Here is a trajectory of my work since 2021: 
 <br>
 
 
@@ -70,7 +70,7 @@ My work at CEEW has gradually evolved from working with secondary, aggregate dat
 
 As a graduate of Economics, I have always been familiar with using STATA and R for exploratory data analysis (EDA) and regression purposes. However, as I was building my understanding of the NSSO datasets, I also started picking up and experimenting with Python. I believe that it was the most consequential and rewarding discovery of my career. It is because of Python's versatility that I dared to take a leap from EDA and regression to the world of data science and NLP.  
 
-Learning a programming language from scratch has made me a better researcher and data analyst. Advent of Large Language Models has made this journey less intimidating. As I continue to be amazed by Python's capabilities, trust me it can do anything under the sun, I am also building my own ability to integrate LLMs in solving contemporary developmental challenges facing India.
+Learning a programming language from scratch has made me a better researcher and data analyst. Advent of Large Language Models has made this journey less intimidating. As I continue to be amazed by Python's capabilities, I am also building my own ability to integrate LLMs in solving contemporary developmental challenges facing India.
 
 Another day, another rabbit hole...
 <br>Happy Wandering !!!

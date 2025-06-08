@@ -22,11 +22,11 @@ order: 4
 
 
 ### Periodic Labour Force Survey [WiP]
-1. Change in industry-wise share of employment between 2011-12 and 2023-24. <br>
+1. [Change in industry-wise share of employment between 2011-12 and 2023-24.](https://github.com/Tarunmehta004/PLFS/tree/main/Across%20surveys) <br>
 
-2. Socio-economic characteristics of coal mine workers in India in 2022-23. <br>
+2. [Socio-economic characteristics of coal mine workers in India in 2022-23.](https://github.com/Tarunmehta004/PLFS/tree/main/PLFS%202022-23/Coal%20mining%20study/Coal%20miners%20India) <br>
 
-3. Combining raw data on first and revisit from PLFS 2023-24 to generate composite estimates. <br>
+3. [Combining raw data on first and revisit from PLFS 2023-24 to generate composite estimates.](https://github.com/Tarunmehta004/PLFS/tree/main/PLFS%202023-24/Code%20files_2023-24/Merging%20first%20and%20revisit%20data) <br>
 
 4. Training a simple neural net to predict status of employment of an individual based on socio-economic characteristics. <br>
 
