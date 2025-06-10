@@ -36,10 +36,8 @@ order: 4
 <br>
 
 
-### Survey of Unincorporated Sector Enterprises [WiP]
-1. GVA and worker statistics for unincorporated enterprises in 2022-23.<br>
-
-2. GVA and worker statistics for unincorporated enterprises in 2015-16.
+### Survey of Unincorporated Sector Enterprises
+1. [GVA and worker statistics for unincorporated enterprises in 2022-23](https://github.com/Tarunmehta004/ASUSE/tree/main/ASUSE_2022_23/Python%20implementation).<br>
 
 ---
 <br>
