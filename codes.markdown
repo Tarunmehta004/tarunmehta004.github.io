@@ -7,15 +7,17 @@ order: 4
 
 
 ### Household Consumption Expenditure Survey
+1. [Building a classifier to differentiate and identify households based on their LPG consumption during 2022-23.](https://github.com/Tarunmehta004/HCES/tree/main/HCES%202022-23/Python%20implementation/Codes/LPG%20analysis)<br>
+
 1. [Comparative analysis of LPG and Firewood consumption in India during 2022-23 and 2023-24.](https://github.com/Tarunmehta004/HCES/tree/main/Across%20survey%20analysis/LPG%20and%20firewood%20statistics)<br>
 
-2. [Analysis of stock and purchase of cooling appliances by households in 2023-24.](https://github.com/Tarunmehta004/HCES/tree/main/Across%20survey%20analysis/LPG%20and%20firewood%20statistics)<br>
+1. [Analysis of stock and purchase of cooling appliances by households in 2023-24.](https://github.com/Tarunmehta004/HCES/tree/main/Across%20survey%20analysis/LPG%20and%20firewood%20statistics)<br>
 
-3. [Population based Monthly Per Capita Expenditure for 2023-24.](https://github.com/Tarunmehta004/HCES/tree/main/HCES%202023-24/Python%20implementation/Data%20extraction/Population%20based%20MPCE)<br>
+1. [Population based Monthly Per Capita Expenditure for 2023-24.](https://github.com/Tarunmehta004/HCES/tree/main/HCES%202023-24/Python%20implementation/Data%20extraction/Population%20based%20MPCE)<br>
 
-4. [Population based Monthly Per Capita Expenditure for 2022-23.](https://github.com/Tarunmehta004/HCES/tree/main/HCES%202022-23/Python%20implementation/Codes/Population%20based%20MPCE)<br>
+1. [Population based Monthly Per Capita Expenditure for 2022-23.](https://github.com/Tarunmehta004/HCES/tree/main/HCES%202022-23/Python%20implementation/Codes/Population%20based%20MPCE)<br>
 
-5. [Decile level expenditure on each commodity during 2022-23.](https://github.com/Tarunmehta004/HCES/tree/main/HCES%202022-23/Python%20implementation/Codes/HH%20decile%20level%20expenditure)
+1. [Decile level expenditure on each commodity during 2022-23.](https://github.com/Tarunmehta004/HCES/tree/main/HCES%202022-23/Python%20implementation/Codes/HH%20decile%20level%20expenditure)
 
 ---
 <br>
