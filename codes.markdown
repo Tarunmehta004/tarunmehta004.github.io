@@ -30,9 +30,9 @@ order: 4
 
 3. [Combining raw data on first and revisit from PLFS 2023-24 to generate composite estimates.](https://github.com/Tarunmehta004/PLFS/tree/main/PLFS%202023-24/Code%20files_2023-24/Merging%20first%20and%20revisit%20data) <br>
 
-4. Training a simple neural net to predict status of employment of an individual based on socio-economic characteristics. <br>
+<!--4. Training a simple neural net to predict status of employment of an individual based on socio-economic characteristics. <br>
 
-5. Using Random Forest to predict status of employment of an individual based on socio-economic characteristics. 
+5. Using Random Forest to predict status of employment of an individual based on socio-economic characteristics. -->
 
 ---
 <br>
