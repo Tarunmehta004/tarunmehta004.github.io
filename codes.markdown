@@ -5,6 +5,14 @@ permalink: /codes/
 order: 4    
 ---
 
+### India's jobs and skills database
+1. [Compiling the jobs and skills database.](https://github.com/Tarunmehta004/India-jobs-and-skills-database/tree/main/Skills%20and%20jobs%20database)<br>
+
+1. [Skills cosmos: An analysis of India's skill clusters]({{ site.baseurl }} {% link /assets/skill_cosmos_2d.html %})[ (code here)](https://github.com/Tarunmehta004/India-jobs-and-skills-database/tree/main/Analysis%20of%20skill%20clusters)<br>
+
+---
+<br>
+
 
 ### Household Consumption Expenditure Survey
 1. [Building a classifier to differentiate and identify households based on their LPG consumption during 2022-23.](https://github.com/Tarunmehta004/HCES/tree/main/HCES%202022-23/Python%20implementation/Codes/LPG%20analysis)<br>
